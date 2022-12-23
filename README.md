@@ -6,7 +6,7 @@
 ![](photo_2022-12-21_21-18-55.jpg)
 ![](photo_2022-12-21_21-19-53.jpg)
 # LAMP Wordpress Deployment via Terraform
-To run this project, you need to create folder on your disk and copy [THIS FILE](main.tf) to this folder;  
+To run this project, you need to create folder on your disk and copy ***[THIS FILE](main.tf)*** to this folder;  
 To run script need add .json file with Service Accounts credentials;  
 Then enter the following commands in Terminal:
 
